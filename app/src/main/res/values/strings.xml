@@ -1,0 +1,37 @@
+<resources>
+<string name="hint_name">Name</string>
+<string name="hint_email">Email</string>
+<string name="hint_phone">phone no</string>
+<string name="app_name">TrafficCongestion</string>
+<string name="hint_password">Password</string>
+<string name="send_password_reset_email">send password reset to email</string>
+<string name="text_login">Login</string>
+<string name="text_register">Register</string>
+<string name="text_not_member">No account yet? Create one</string>
+<string name="navigation_drawer_open">Open navigation drawer</string>
+<string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="selected_item">Selected day:</string>
+    <string name="search_title">Search</string>
+    <string name="address_search_hint">Enter address</string>
+    <string name="geo_locate_error">Geocode failed on address.</string>
+    <string name="location_not_found">No location with that name: </string>
+    <string name="locator_task_uri">http://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer</string>
+    <string name="suggestion">Suggestion</string>
+    <string name="directions">Directions</string>
+
+//trail for routing
+
+    <string name="navigation_vector">https://www.arcgis.com/sharing/rest/content/items/dcbbba0edf094eaa81af19298b9c6247/resources/styles/root.json</string>
+    <string name="routing_service">https://sampleserver6.arcgisonline.com/arcgis/rest/services/NetworkAnalysis/SanDiego/NAServer/Route</string>
+
+    <string-array name="days_array">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+</resources>
