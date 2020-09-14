@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "963282515750",
+    "firebase_url": "https://major-9657d.firebaseio.com",
+    "project_id": "major-9657d",
+    "storage_bucket": "major-9657d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963282515750:android:373da99de8876c50cc73e7",
+        "android_client_info": {
+          "package_name": "com.example.trafficcongestion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963282515750-k29a38jt35sf73qibo33l5the2r4vpcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trafficcongestion",
+            "certificate_hash": "e390b4f0150ce61b5d9d5bfe5779c6b71ee245c7"
+          }
+        },
+        {
+          "client_id": "963282515750-v0bp7b7v3dhmi74l96nshs6c5vke6a9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcIXqpQOXPyD315fePRW499Djh-BKqiBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963282515750-v0bp7b7v3dhmi74l96nshs6c5vke6a9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
